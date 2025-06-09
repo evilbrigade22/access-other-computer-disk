@@ -1,0 +1,5 @@
+net use z: \\10.28.0.82\c$
+
+(this is for the accessing the the folder you want so do that the c and dollar sign)
+
+(for the letter any letter that is unoccupied)
