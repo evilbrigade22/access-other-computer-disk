@@ -1,0 +1,3 @@
+netstat -s -p tcp
+
+(to get qwhen there is another ip conencted in the network)
