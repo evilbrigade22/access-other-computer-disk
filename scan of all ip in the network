@@ -1,3 +1,3 @@
-nmap -sn and ip of your wifi then slash /24 
+nmap -sP and ip of your wifi then slash /24 
 
 (slash /24 because that is standard for scanning of it)
